@@ -1,5 +1,6 @@
 require:
   - rubocop-rspec
+  - rubocop-sorbet
 
 inherit_gem:
   rubocop-shopify: rubocop.yml
